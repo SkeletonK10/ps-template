@@ -1,3 +1,5 @@
+#pragma once
+
 struct Union_Find
 {
     std::vector<int> UF;
